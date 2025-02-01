@@ -1,0 +1,16 @@
+.IPPcode24
+LABEL ahoj1
+JUMP ahoj6
+JUMP ahoj1
+JUMP ahoj2
+JUMP ahoj3
+JUMP ahoj4
+JUMP ahoj5
+LABEL ahoj2
+LABEL ahoj3
+LABEL ahoj4
+label ahoj5
+JUMP ahoj5
+JUMP ahoj3
+JUMP ahoj2
+JUMP ahoj7
